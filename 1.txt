@@ -1,8 +1,3 @@
 THIS is the first one
 TIis is dev branch.
-<<<<<<< HEAD
 This is master and feature1 branch.
-=======
-This is master and feature1 branch.
-
->>>>>>> feature1
